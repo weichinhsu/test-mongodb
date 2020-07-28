@@ -51,3 +51,13 @@ models used for replication and how application developers can
 utilize the various models.
 
 # Migrating Schemas
+
+# Reference
+https://tw.alphacamp.co/blog/sql-nosql-database-dbms-introduction
+https://medium.com/frankuslife/%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6-mongodb-mdb-%E6%9C%80%E5%A4%9A%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%9A%84nosql-%E8%B3%87%E6%96%99%E5%BA%AB-f4fa63d547ad
+http://garyliutw.blogspot.com/2014/05/mongodb-mongodb.html
+http://garyliutw.blogspot.com/2014/05/mongodb-nosql.html
+https://www.ithome.com.tw/news/92506
+https://www.kshuang.xyz/doku.php/database:sql_vs_nosql
+https://shininglionking.blogspot.com/2018/04/rdbms-vs-nosql.html
+
